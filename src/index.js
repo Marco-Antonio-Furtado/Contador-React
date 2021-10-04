@@ -4,7 +4,11 @@ import App from './App';
 import Teste from './components/Teste'
 
 ReactDOM.render(
-    <Teste />,
+    <div>
+      <Teste />
+      <App/>
+    </div>
+    ,
   document.getElementById('root')
 );
 
