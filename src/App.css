@@ -1,0 +1,36 @@
+*{
+    margin: none;
+    padding: none;
+    border: none;
+}
+
+#numero {
+    font-size: 100px;
+    max-width: 400px;
+    margin: auto;
+    background-color: rgb(37, 33, 33);
+    box-shadow: 5px 10px 10px rgb(109, 101, 101) ;
+    border-radius: 10px;
+
+}
+
+.btn{
+    margin: 5px;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.btn-menos{
+    background-color: rgb(187, 17, 17);
+
+}
+
+.btn-mais{
+    background-color: rgb(10, 156, 10);
+
+}
+
+.btn-zerar{
+    background-color: grey;
+}
