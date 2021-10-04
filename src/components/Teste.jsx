@@ -1,6 +1,7 @@
 import React from 'react'
 
-export default () => 
-<>
-<h1>opaaaa</h1>
-</>
+const Teste = function() {
+    return <h1>opaaaa</h1>
+}
+
+export default Teste
